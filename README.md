@@ -1,5 +1,6 @@
-# Research-Thread
-
+# Research-Redis
+## Download 
+ > [See here](https://github.com/microsoftarchive/redis/releases)
 ## Basic Command
 
  1. set สร้าง key แบบธรรมดา
