@@ -20,7 +20,7 @@
  3. setex สร้าง key แบบกำหนดเวลา expire
 	 ```
 	 example : setex [Key] [Timeout(Second)] [Value]
-						setex name 10 Kittisak
+                   setex name 10 Kittisak
 	 Result : OK
 	 ```
 	
